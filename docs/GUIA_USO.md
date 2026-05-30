@@ -59,3 +59,11 @@ Para mejores resultados, registra varias cargas de gasolina consecutivas y captu
 Usa **Respaldar** antes de cambiar de dispositivo, limpiar el navegador o hacer pruebas.
 
 Usa **Importar** para restaurar un archivo `.json` generado por la app.
+
+## Actualizar la app
+
+Cuando subas una nueva version a GitHub, abre la app y toca **Actualizar app**.
+
+Ese boton conserva tus datos, limpia el cache local y vuelve a cargar la version mas reciente publicada en GitHub Pages.
+
+Si el celular sigue mostrando una version anterior, cierra la app instalada y vuelve a abrirla con conexion a internet.

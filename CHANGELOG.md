@@ -1,5 +1,17 @@
 # Changelog
 
+## Version 5
+
+- Boton **Actualizar app** para limpiar cache y cargar cambios publicados en GitHub.
+- Service worker ajustado para activar versiones nuevas mas rapido.
+- La navegacion principal intenta cargar desde red antes que cache cuando hay conexion.
+
+## Version 4
+
+- Iconos PNG de 192 y 512 px para mejorar compatibilidad de instalacion en celular.
+- Manifiesto actualizado para navegadores moviles.
+- Cache de app actualizado a `mi-jetta-app-v4`.
+
 ## Version 3
 
 - Nueva pestaña **Sonidos** para orientar fallas por ruido.

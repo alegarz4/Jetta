@@ -16,6 +16,7 @@ Bitacora personal para administrar mantenimiento, gasolina, gastos, fallas y dia
 - Resumen general del estado del vehiculo.
 - Guardado automatico en el navegador.
 - Exportacion e importacion de respaldo en JSON.
+- Boton para actualizar la app cuando publiques cambios nuevos.
 - Soporte basico para instalacion como app web.
 
 ## Como usar
@@ -43,6 +44,7 @@ GitHub generara una URL publica para abrir la app.
 - `manifest.webmanifest`: configuracion para instalar como app.
 - `service-worker.js`: cache basico para uso offline cuando se publica en web.
 - `jetta-icon.svg`: icono de la app.
+- `icon-192.png` y `icon-512.png`: iconos requeridos por navegadores moviles para instalacion.
 - `docs/`: documentacion adicional.
 
 ## Privacidad
