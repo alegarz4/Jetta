@@ -11,6 +11,8 @@ Bitacora personal para administrar mantenimiento, gasolina, gastos, fallas y dia
 - Calculo de rendimiento en km/L y costo por km.
 - Registro de gastos por categoria.
 - Diagnostico orientativo por sintomas.
+- Diagnostico orientativo por sonido.
+- Graficas de rendimiento, gastos mensuales y gastos por categoria.
 - Resumen general del estado del vehiculo.
 - Guardado automatico en el navegador.
 - Exportacion e importacion de respaldo en JSON.
@@ -46,4 +48,3 @@ GitHub generara una URL publica para abrir la app.
 ## Privacidad
 
 La app no envia datos a servidores. La informacion se queda en el navegador donde se usa. Si publicas este proyecto en GitHub, solo se publica el codigo de la app, no tus datos guardados.
-

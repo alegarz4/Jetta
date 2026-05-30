@@ -1,17 +1,25 @@
 # Mejoras recomendadas
 
-## Prioridad alta
+## Ya incluido en V3
 
 1. **Grafica de rendimiento**
-   Mostrar km/L por carga para detectar si el consumo empeora con el tiempo.
+   Muestra km/L por carga para detectar cambios de consumo.
 
-2. **Recordatorios por fecha**
+2. **Diagnostico por sonido**
+   Orienta posibles fallas segun tipo de ruido, momento, zona e intensidad.
+
+3. **Graficas de gastos**
+   Muestra gasto mensual y gasto por categoria.
+
+## Prioridad alta
+
+1. **Recordatorios por fecha**
    Ademas de kilometraje, permitir alertas por tiempo: aceite cada 6 meses, verificacion, seguro, refrendo, etc.
 
-3. **Exportar reporte PDF**
+2. **Exportar reporte PDF**
    Generar un resumen para llevar al mecanico con fallas, servicios recientes y kilometraje.
 
-4. **Modo multi-vehiculo**
+3. **Modo multi-vehiculo**
    Permitir registrar mas de un auto sin duplicar la app.
 
 ## Prioridad media
@@ -41,5 +49,4 @@
 
 ## Recomendacion inmediata
 
-La siguiente mejora que mas valor daria es agregar una grafica sencilla de rendimiento y gastos mensuales. Con eso la app dejaria de ser solo bitacora y empezaria a mostrar tendencias.
-
+La siguiente mejora que mas valor daria es agregar recordatorios por fecha y un reporte imprimible para mecanico.

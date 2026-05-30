@@ -31,9 +31,31 @@ Registra pagos por categoria: gasolina, mantenimiento, refacciones, verificacion
 
 Marca sintomas actuales. La app ofrece una orientacion inicial para decidir que revisar primero, pero no sustituye revision mecanica ni escaneo OBD.
 
+## Sonidos
+
+Usa esta seccion cuando el auto haga un ruido raro. Selecciona:
+
+- Tipo de sonido.
+- Momento en que aparece.
+- Zona probable.
+- Si cambia con velocidad, RPM, temperatura, giro o frenado.
+- Intensidad.
+
+La app mostrara causas posibles y recomendaciones de revision.
+
+## Graficas
+
+La seccion de graficas muestra:
+
+- Rendimiento por carga en km/L.
+- Lectura rapida de tendencias de consumo.
+- Gastos por mes.
+- Gastos por categoria.
+
+Para mejores resultados, registra varias cargas de gasolina consecutivas y captura los gastos con fecha.
+
 ## Respaldos
 
 Usa **Respaldar** antes de cambiar de dispositivo, limpiar el navegador o hacer pruebas.
 
 Usa **Importar** para restaurar un archivo `.json` generado por la app.
-
